@@ -5,7 +5,7 @@
  * *main - Main function of my project
  *
  * *Return: return 0 everytime
- * */
+**/
 	int main(void)
 {
 
