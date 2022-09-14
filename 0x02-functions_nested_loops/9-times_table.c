@@ -13,7 +13,7 @@ _putchar('0');
 
 for (mult = 1; mult <= 9; mult++)
 {
-putchar(',');
+_putchar(',');
 _putchar(' ');
 result = digit * mult;
 if (result <= 9)
